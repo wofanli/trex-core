@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Hanoh Haim
+# wenxian.li@linaro.org
+
 import pexpect
 import re
 import sys 
